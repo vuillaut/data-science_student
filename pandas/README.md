@@ -12,6 +12,6 @@ jupyter notebook
 ```
 
 We will work in this order:
-- 1. Pandas Warming Up.ipynb
-- 2. Reading and Visualising Data - nosols.ipynb
-- Matplotlib - nosols.ipynb
+- `1. Pandas Warming Up.ipynb`
+- `2. Reading and Visualising Data - nosols.ipynb`
+- `Matplotlib - nosols.ipynb`
