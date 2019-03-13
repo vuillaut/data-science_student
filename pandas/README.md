@@ -1,5 +1,7 @@
 # Pandas for data science
 
+The material used here is available at https://github.com/Asterics2020-Obelics/School2018
+
 ```
 git clone https://github.com/Asterics2020-Obelics/School2018.git
 ```

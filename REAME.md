@@ -24,7 +24,7 @@ contact us at firstname.name[at]lapp.in2p3.fr
 
 
 ### Course 3
-- [Exercices with pandas](pandas/README.md)
+- [Exercices with pandas](pandas/Pandas_M1.ipynb)
 - Introduction to matplotlib and visualisation
 - Exercices with matplotlib
 - Visualisation with pandas
