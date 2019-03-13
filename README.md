@@ -31,18 +31,19 @@ contact us at firstname.name[at]lapp.in2p3.fr
 
 
 ### Course 4
-- Introduction to machine learning
+- [Introduction to machine learning](machine_learning/README.md)
 - Exercices with scikit-learn
 
 ### Course 5
 - Machine learning #2
 - Exercices
-- Introduction to kaggle
-- Practical work on a real case
+- [Practical work on a real case](Homework/README.md)
 
 ### Course 6
 - Practical work on a real case
-- Getting scores
+- Getting scores for the real case
+- Introduction to git pull requests
+- Introduction to kaggle
 - Wrap-up, going further in data science
 
 
