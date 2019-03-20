@@ -13,6 +13,7 @@ git clone https://github.com/Asterics2020-Obelics/School2018.git
 ```
 cd School2018
 conda env update -f environment.yml
+conda install -c astropy emcee
 cd machinelearning
 python setup.py install
 ```
