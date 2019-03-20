@@ -7,6 +7,7 @@
 pip install kaggle
 kaggle competitions download -c new-york-city-taxi-fare-prediction
 ```
+note: if you don't have a kaggle account, the dataset will be copied during the lecture.
 
 3. Start a notebook, load the data with pandas, play with it
 
