@@ -7,11 +7,16 @@ This will be a short introduction to machine learning for data scientist to unde
 For the introduction, we will follow David Kirkby's online course:
 
 ```
-git clone https://github.com/Asterics2020-Obelics/School2018
+git clone https://github.com/Asterics2020-Obelics/School2018.git
 ```
 
 ```
-cd School2018/machinelearning
+cd School2018
+conda env update -f environment.yml
+conda activate school18
+conda install -c astropy emcee
+conda install pytables
+cd machinelearning
 python setup.py install
 ```
 
