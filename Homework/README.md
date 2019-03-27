@@ -30,8 +30,7 @@ In the notebook you can access them through the path:
 5. Submit your notebook to github making a pull request
     - create a github account
     - fork this repository
-    - add your remote `git remote add name adress-of-your-fork`
-    - copy the notebook into Homework/students-notebooks/
+    - clone the fork on your local environment
     - `git add`
     - `git commit`
     - `git push` on your remote
